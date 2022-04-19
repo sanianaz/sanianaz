@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
- I'm a Fullstack developer in the making, Seeking a challenging career that provides an opportunity to effectively utilize my technical skills and abilities in the field of web development.
+ I'm a Fullstack developer in the making, seeking a challenging career that provides an opportunity to effectively utilize my technical skills and abilities in the field of web development.
 
 🌱 Tech : HTML, CSS, JavaScript, Express, Mongoose, Node.js 
 
