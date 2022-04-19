@@ -1,5 +1,5 @@
 
-![image](https://github.com/sanianaz/sanianaz/blob/main/sanianaz-banner.gif)
+![screen-gif](https://github.com/sanianaz/sanianaz/blob/main/sanianaz-banner.gif)
 
 ### Hi there 👋
 
