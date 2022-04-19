@@ -1,5 +1,7 @@
-### Hi there 👋
+
 ![image](https://github.com/sanianaz/sanianaz/blob/main/sanianaz-banner.gif)
+
+### Hi there 👋
 
  I'm a Fullstack developer in the making, Seeking a challenging career that provides an opportunity to effectively utilize my technical skills and abilities in the field of web development.
 
@@ -8,6 +10,9 @@
 🌈 I also love Reading
 
 💥 I love learning new concepts and skills. Fortunately, I have the ability to absorb and assimilate new ideas and methods very quickly.
+
+Contact Me
+![gmail](sania.naz@hyperisland.se)
 
 TECHNOLOGIES
 
