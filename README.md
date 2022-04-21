@@ -3,11 +3,11 @@
 
 ### Hi there 👋
 
- I'm a Fullstack developer in the making, seeking a challenging career that provides an opportunity to effectively utilize my technical skills and abilities in the field of web development.I also have 5 years of Testing Experience as software Quality Qssurance Engineer.
+ I'm a Fullstack developer in the making, seeking a challenging career that provides an opportunity to effectively utilize my technical skills and abilities in the field of web development.I also have 5 years of Testing Experience as Software Quality Assurance Engineer.
 
 🌱 Tech : HTML, CSS, JavaScript, Express, Mongoose, Node.js 
 
-🌈 I also love Reading
+🌈 I also love Reading and Traveling 
 
 💥 I love learning new concepts and skills. Fortunately, I have the ability to absorb and assimilate new ideas and methods very quickly.
 
