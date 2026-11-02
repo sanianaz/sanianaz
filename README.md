@@ -84,7 +84,7 @@ I enjoy connecting technology, data, and business to solve problems and create m
 
 I'm always happy to connect with recruiters, professionals, and people passionate about data and technology.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)][(YOUR_LINKEDIN)](https://www.linkedin.com/in/sania-n-554b2a21a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sania-n-554b2a21a/)
 
 ---
 
