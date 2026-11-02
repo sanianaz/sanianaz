@@ -1,10 +1,39 @@
 # 👋 Hi, I'm Sania!
 
-### 📊 Data Engineer| Data Analyst | Business Analyst | Aspiring Scrum Master
+### 📊 Data Analyst | Data Engineer | Business Analyst | Aspiring Scrum Master
 
-Welcome to my GitHub profile! I'm passionate about data, technology, business strategy, and agile collaboration.
+I'm passionate about transforming data into meaningful insights, building data-driven solutions, understanding business requirements, and helping teams deliver value.
 
-I enjoy transforming raw data into meaningful insights, building data-driven solutions, understanding business needs, and helping teams deliver value.
+---
+
+## 🛠️ When I Work With Data & Business, I Rely On
+
+### 📊 Data Analytics & Programming
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</p>
+
+### 🏗️ Data Engineering & Cloud
+
+<p>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+</p>
+
+### 💼 Business Analysis & Project Management
+
+<p>
+<img src="https://img.shields.io/badge/Business_Analysis-2878B8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agile-6B4DB8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scrum-21865B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Requirements_Gathering-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/Process_Improvement-00897B?style=flat-square"/>
+</p>
 
 ---
 
@@ -17,40 +46,9 @@ I enjoy transforming raw data into meaningful insights, building data-driven sol
 - 🐍 Working with Python and SQL
 - 📈 Creating dashboards using Power BI
 - ❄️ Exploring Snowflake and dbt
-- ☁️ Exploring Microsoft Azure cloud technologies
-- 🔥 Learning Databricks and modern data engineering
-- 🤝 Enjoy problem-solving, teamwork, and continuous improvement
-- 🌱 Always learning and developing new skills
-
----
-
-## 🛠️ Skills & Technologies
-
-### 🐍 Programming & Querying
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📊 Data Analytics & Visualization
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🏗️ Data Engineering & Cloud Technologies
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 💼 Business & Project Management
-
-- Business Analysis
-- Requirements Gathering
-- Business Process Improvement
-- Agile Methodologies
-- Scrum Framework
-- Team Collaboration
-- Stakeholder Communication
+- ☁️ Exploring Microsoft Azure
+- 🔥 Learning Databricks and big data technologies
+- 🤝 Enjoy collaboration, problem-solving, and continuous improvement
 
 ---
 
@@ -67,11 +65,11 @@ I enjoy transforming raw data into meaningful insights, building data-driven sol
 | 💼 Business Requirements Analysis | Business Analysis |
 | 🚀 Agile Project Management | Scrum, Agile |
 
-*I'll be adding project repositories and practical examples here.*
+*More projects coming soon!*
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 My GitHub Statistics
 
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanianaz&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -82,21 +80,23 @@ I enjoy transforming raw data into meaningful insights, building data-driven sol
 
 ## 🎯 Career Interests
 
-- Data Analyst
-- Data Engineer
-- Business Analyst
-- Scrum Master
+📊 Data Analyst | 🏗️ Data Engineer
 
-I enjoy connecting technology, data, and business to solve problems, improve processes, and create meaningful impact.
+💼 Business Analyst | 🚀 Scrum Master
+
+I'm interested in opportunities where I can combine data, technology, business knowledge, and agile collaboration to create meaningful impact.
 
 ---
 
 ## 🤝 Let's Connect!
 
-I'm always happy to connect with recruiters, professionals, and people passionate about data and technology.
+I'm always happy to connect with recruiters, professionals, and fellow data enthusiasts.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sania-n-554b2a21a/)
-
+<p>
+<a href="(https://www.linkedin.com/in/sania-n-554b2a21a/)">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
