@@ -25,6 +25,13 @@ I'm passionate about transforming data into meaningful insights, building data-d
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
 </p>
 
+### 💻 Development & Version Control
+
+<p>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
 ### 💼 Business Analysis & Project Management
 
 <p>
