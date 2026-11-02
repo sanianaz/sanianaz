@@ -1,21 +1,93 @@
+# 👋 Hi, I'm Sania!
 
-![screen-gif](https://github.com/sanianaz/sanianaz/blob/main/sanianaz-banner.gif)
+### 📊 Data Analyst | Data Engineer | Business Analyst | Aspiring Scrum Master
 
-### Hi there 👋
+Welcome to my GitHub profile! I'm passionate about data, technology, business strategy, and agile collaboration.
 
- I'm a Fullstack developer in the making, seeking a challenging career that provides an opportunity to effectively utilize my technical skills and abilities in the field of web development.I also have 5 years of Testing Experience as Software Quality Assurance Engineer.
+I enjoy transforming raw data into meaningful insights, building data-driven solutions, understanding business needs, and helping teams deliver value.
 
-🌱 Tech : HTML, CSS, JavaScript, Express, Mongoose, Node.js 
+---
 
-🌈 I also love Reading and Traveling 
+## 🚀 About Me
 
-💥 I love learning new concepts and skills. Fortunately, I have the ability to absorb and assimilate new ideas and methods very quickly.
+- 📊 Interested in Data Analytics & Business Intelligence
+- 🏗️ Exploring Data Engineering and modern data platforms
+- 💼 Interested in Business Analysis and requirements gathering
+- 🔄 Passionate about Agile methodologies and Scrum
+- 🐍 Working with Python and SQL
+- 📈 Creating dashboards using Power BI
+- ❄️ Exploring Snowflake and dbt
+- 🤝 Enjoy problem-solving, teamwork, and continuous improvement
+- 🌱 Always learning and developing new skills
 
-#### Contact Me
+---
 
-![sania.naz@hyperisland.se](https://camo.githubusercontent.com/e193e945e9948eed8601edbff4d29d5eea19503b6504171db26c3161a361c9e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6b6172616e2e6d616e6e40687970657269736c616e642e7365)
+## 🛠️ Skills & Technologies
 
-#### TECHNOLOGIES
+### Programming & Querying
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
- ![HTML5](https://camo.githubusercontent.com/170e5404919fb06d5a738ba3e820f59ed54de319664b23d4b104b74c9cb39666/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c6174737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465) ![CSS3](https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333) ![JavaScript](https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074) ![Bootstrap](https://camo.githubusercontent.com/e56d586bf373ad33a4e8c7101246d54d5edc0fb52b87d309b899ce4818bd6086/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170) ![React](https://camo.githubusercontent.com/e56d586bf373ad33a4e8c7101246d54d5edc0fb52b87d309b899ce4818bd6086/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170) ![node.js](https://camo.githubusercontent.com/cec92673ea713fa89ba2ae2033daf5851f6f39393ff5b93231aa707d424638d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73) ![Git](https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974) ![GitHub](https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562) ![MongoDB](https://camo.githubusercontent.com/392fa71fd2737088b6d21ba33f3d2fb6e1ac7c61142cdbe56c1d688ecf781ab8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462) 
+### Data Analytics
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+### Data Engineering
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+### Business & Project Management
+- Business Analysis
+- Requirements Gathering
+- Process Improvement
+- Agile Methodologies
+- Scrum Framework
+- Team Collaboration
+
+---
+
+## 📂 Featured Projects
+
+| Project | Technologies |
+|---|---|
+| 📊 Sales Data Analysis | Python, SQL |
+| 📈 Business Intelligence Dashboard | Power BI |
+| ❄️ Data Warehouse | Snowflake, SQL |
+| 🔄 Data Transformation Pipeline | dbt, Snowflake |
+| 💼 Business Requirements Analysis | Business Analysis |
+| 🚀 Agile Project Management | Scrum, Agile |
+
+*I'll be adding project repositories and practical examples here.*
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanianaz&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanianaz&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Career Interests
+
+- Data Analyst
+- Data Engineer
+- Business Analyst
+- Scrum Master
+
+I enjoy connecting technology, data, and business to solve problems and create meaningful impact.
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always happy to connect with recruiters, professionals, and people passionate about data and technology.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)][(YOUR_LINKEDIN)](https://www.linkedin.com/in/sania-n-554b2a21a/)
+
+---
+
+### ✨ Turning Data Into Insights, Ideas Into Solutions!
+
+**Thanks for visiting my profile! 🚀**
